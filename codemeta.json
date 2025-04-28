@@ -1,0 +1,27 @@
+{
+	"@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+	"@type": "SoftwareSourceCode",
+	"name": "Classification Models on Australia Weather Data Dataset",
+	"description": "A set of machine learning models trained on a weather dataset split into train and test. Models include Logistic Regression, Decision Tree, MLP, Random Forest, LightGBM, CatBoost, and XGBoost.",
+	"author": {
+		"@type": "Person",
+		"name": "Kaya Ali Kus"
+	},
+    "identifier": "https://doi.org/10.5281/zenodo.15295791",
+	"programmingLanguage": "Python",
+	"applicationCategory": "Machine Learning",
+	"keywords": [
+		"Classification",
+		"Machine Learning",
+		"Model Training",
+		"Logistic Regression",
+		"Decision Tree",
+		"Neural Network",
+		"Random Forest",
+		"LightGBM",
+		"CatBoost",
+		"XGBoost"
+	],
+	"developmentStatus": "active",
+	"dateCreated": "2025-04-28"
+}

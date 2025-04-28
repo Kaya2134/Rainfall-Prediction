@@ -1,0 +1,24 @@
+{
+  "@type": "Model",
+  "name": "Multilayer Perceptron Classifier",
+  "description": "Multilayer Perceptron model trained on the provided training split for classification tasks.",
+  "trainingDataset": {
+    "@type": "Dataset",
+    "name": "Custom Dataset for Classification",
+    "url": "https://test.dbrepo.tuwien.ac.at/pid/eb0eaaaa-c5cf-4946-ac2b-79180adc7074"
+  },
+  "input": {
+    "@type": "PropertyValue",
+    "name": "Feature vector"
+  },
+  "output": {
+    "@type": "PropertyValue",
+    "name": "Predicted class label"
+  },
+  "algorithm": {
+    "@type": "SoftwareApplication",
+    "name": "Multilayer Perceptron",
+    "applicationCategory": "Classification"
+  },
+  "domain": "Machine Learning / Classification"
+}
