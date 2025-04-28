@@ -1,4 +1,5 @@
 # Rainfall Prediction using 7 Popular Models
+[![DOI](https://zenodo.org/badge/974119862.svg)](https://doi.org/10.5281/zenodo.15295791)
 
 This project focuses on predicting rainfall using a combination of classic machine learning algorithms. We explore and compare the performance of **7 popular models** to predict rainfall more accurately based on historical data.
 
